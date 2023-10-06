@@ -1,6 +1,4 @@
 # solidity-course-risein
-# CounterContract Course Task
-
 ## Task Description
 
 This task is part of the CounterContract course on the Risin website. The goal is to enhance the CounterContract smart contract by adding a new function to retrieve the description associated with the counter.
